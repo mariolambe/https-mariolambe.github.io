@@ -32,6 +32,9 @@ I found a simple sitemap url extractor script that will extract the list of URLs
 
 4. Done! You have just converted your sitemap to a URL list.
 
+![import_sitemap_urls_google_sheets](https://user-images.githubusercontent.com/61537859/111198585-0213d000-85c0-11eb-9fe1-f674f5db8e86.jpg)
+
+
 
 **2) Extract URLs From XML Sitemaps with Screaming Frog**
 
@@ -46,6 +49,9 @@ Here the steps:
 3. Upload>Download Sitemap>Add Sitemap xml URL
 
 4. Done!
+
+![Import_sitemap_urls_screaming_frog](https://user-images.githubusercontent.com/61537859/111198474-e14b7a80-85bf-11eb-8ea3-3cce18dea492.jpg)
+
 
 
 **3) Extract URLs From XML Sitemaps with command line tools**
