@@ -55,6 +55,8 @@ Here the steps:
 
 3. Done!
 
+![Extract URLs from sitemap](https://user-images.githubusercontent.com/61537859/111198366-c37e1580-85bf-11eb-8484-2d4c5ec3816c.gif)
+
 
 I hope you find it useful.
 
