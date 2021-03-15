@@ -53,4 +53,6 @@ curl -s https://www.google.com/sheets/sitemaps.xml
 
 3. Done!
 
+I hope you find it useful.
+
 
