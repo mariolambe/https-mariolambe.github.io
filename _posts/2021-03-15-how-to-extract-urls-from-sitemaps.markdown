@@ -19,7 +19,7 @@ There are different options out there and I selected the best 3 methods:
 
 I found a simple sitemap url extractor script that will extract the list of URLs in less than 5 seconds, pretty impressive, isn’t it? Give it a try.
 
-[Here the Google Sheet that act as a sitemap url extractor:]: https://docs.google.com/spreadsheets/d/1-QiRWQVHqg7nL56Uwy_kqHt8i53oaq4yvG7duGIW3C4/copy
+[Here the Google Sheet that act as a sitemap url extractor:]: [https://docs.google.com/spreadsheets/d/1-QiRWQVHqg7nL56Uwy_kqHt8i53oaq4yvG7duGIW3C4/copy]
 
 1. Make a copy of it
 
@@ -47,11 +47,10 @@ Here the steps:
 3) Extract URLs From XML Sitemaps with command line tools
 1. Open your terminal
 
-2. Enter this command (remember to replace the sitemap URL)->
-
-curl -s https://www.google.com/sheets/sitemaps.xml
+2. Enter this command (remember to replace the sitemap URL)-> curl -s https://www.google.com/sheets/sitemaps.xml
 
 3. Done!
+
 
 I hope you find it useful.
 
