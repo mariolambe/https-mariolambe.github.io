@@ -15,6 +15,8 @@ There are different options out there and I selected the best 3 methods:
 - Terminal
 - Let’s jump right into it.
 
+
+
 1) Extract URLs From XML Sitemaps Online In Google Sheets
 
 I found a simple sitemap url extractor script that will extract the list of URLs in less than 5 seconds, pretty impressive, isn’t it? Give it a try.
@@ -28,7 +30,7 @@ I found a simple sitemap url extractor script that will extract the list of URLs
 3. The list of URLs will appear automatically in column D
 
 4. Done! You have just converted your sitemap to a URL list.
-5. 
+
 
 2) Extract URLs From XML Sitemaps with Screaming Frog
 For this second method you need to install the SEO software Screaming Frog to convert any sitemap xml to a url list. This method works pretty well also for sitemap index file that are the ones that contain list of sub-sitemaps.
