@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Mario!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have 6+ years’ experience in SEO and currently I am  Senior SEO Manager at Zalando SE in Germany.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I’ve worked on the organic expansion and the definition of SEO requirements of 18+ domains at Zalando.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Strong focus on strategies to increase rankings, from technical SEO to link acquisition and content strategies in line with company’s goals.
