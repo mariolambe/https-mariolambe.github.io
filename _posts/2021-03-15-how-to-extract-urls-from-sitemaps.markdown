@@ -47,7 +47,7 @@ Here the steps:
 4. Done!
 
 
-**3) Extract URLs From XML Sitemaps with command line tools
+**3) Extract URLs From XML Sitemaps with command line tools**
 1. Open your terminal
 
 2. Enter this command (remember to replace the sitemap URL)-> curl -s https://www.google.com/sheets/sitemaps.xml
