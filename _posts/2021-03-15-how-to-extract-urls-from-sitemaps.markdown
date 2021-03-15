@@ -33,6 +33,7 @@ I found a simple sitemap url extractor script that will extract the list of URLs
 
 
 2) Extract URLs From XML Sitemaps with Screaming Frog
+
 For this second method you need to install the SEO software Screaming Frog to convert any sitemap xml to a url list. This method works pretty well also for sitemap index file that are the ones that contain list of sub-sitemaps.
 
 Here the steps:
