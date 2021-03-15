@@ -17,21 +17,40 @@ There are different options out there and I selected the best 3 methods:
 
 1) Extract URLs From XML Sitemaps Online In Google Sheets
 
+I found a simple sitemap url extractor script that will extract the list of URLs in less than 5 seconds, pretty impressive, isn’t it? Give it a try.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[Here the Google Sheet that act as a sitemap url extractor:]: https://docs.google.com/spreadsheets/d/1-QiRWQVHqg7nL56Uwy_kqHt8i53oaq4yvG7duGIW3C4/copy
 
-Jekyll also offers powerful support for code snippets:
+1. Make a copy of it
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+2. Add the sitemap URL in the cell B2 (example: https://www.google.com/sheets/sitemaps.xml)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+3. The list of URLs will appear automatically in column D
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+4. Done! You have just converted your sitemap to a URL list.
+5. 
+
+2) Extract URLs From XML Sitemaps with Screaming Frog
+For this second method you need to install the SEO software Screaming Frog to convert any sitemap xml to a url list. This method works pretty well also for sitemap index file that are the ones that contain list of sub-sitemaps.
+
+Here the steps:
+
+1. Open Screaming Frog SEO Spider Tool
+
+2. Mode>Select List
+
+3. Upload>Download Sitemap>Add Sitemap xml URL
+
+4. Done!
+
+
+3) Extract URLs From XML Sitemaps with command line tools
+1. Open your terminal
+
+2. Enter this command (remember to replace the sitemap URL)->
+
+curl -s https://www.google.com/sheets/sitemaps.xml
+
+3. Done!
+
+
