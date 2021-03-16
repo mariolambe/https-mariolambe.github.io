@@ -67,6 +67,7 @@ gems:
   - jekyll-redirect-from
 
 header_pages:
+      - about.md
       - newpage.md
 # Exclude from processing.
 # The following items will not be processed, by default.
