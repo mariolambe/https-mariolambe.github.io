@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : mariolambe
 facebook:
   username               :
   app_id                 :
@@ -88,17 +88,17 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : UA-62893595-1
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mario Lambertucci"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Senior SEO Specialist"
+  location         : "Larh/Schwarzwald"
+  email            : "mariolambertucci@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
