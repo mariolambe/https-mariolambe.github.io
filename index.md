@@ -28,6 +28,7 @@ Strong focus on strategies to increase rankings, from technical SEO to link acqu
 ![Seo_growth](https://user-images.githubusercontent.com/61537859/111320651-80777d00-8667-11eb-94c2-2f47ea001e21.png)
 <
 <br>
+<br>
 
 If you need SEO support for your company or your online project feel free to reach out to me:
 <b>mariolambertucci@gmail.com</b>
