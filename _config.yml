@@ -70,7 +70,7 @@ google_analytics: UA-62893595-1
 
 header_pages:
       - about.md
-      - home.md
+      - index.md
       - free-consultation.md
 # Exclude from processing.
 # The following items will not be processed, by default.
