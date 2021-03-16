@@ -26,7 +26,6 @@ Strong focus on strategies to increase rankings, from technical SEO to link acqu
 
 <b>#Project 2</b>
 ![Seo_growth](https://user-images.githubusercontent.com/61537859/111320651-80777d00-8667-11eb-94c2-2f47ea001e21.png)
-<
 <br>
 <br>
 
