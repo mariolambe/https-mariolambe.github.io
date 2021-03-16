@@ -29,6 +29,6 @@ Strong focus on strategies to increase rankings, from technical SEO to link acqu
 <
 <br>
 
-If you need SEO support for your company feel free to reach out to me:
-mariolambertucci@gmail.com
+If you need SEO support for your company or your online project feel free to reach out to me:
+<b>mariolambertucci@gmail.com</b>
 
