@@ -65,6 +65,8 @@ whitelist:
   - jekyll-redirect-from 
 gems:
   - jekyll-redirect-from
+  
+google_analytics: UA-62893595-1
 
 header_pages:
       - about.md
