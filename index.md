@@ -15,3 +15,14 @@ I have 6+ years’ experience in SEO and currently I am <b>Senior SEO Manager</b
 I’ve worked on the organic expansion and the definition of SEO requirements of 18+ domains at Zalando.
 
 Strong focus on strategies to increase rankings, from technical SEO to link acquisition and content strategies in line with company’s goals.
+
+<b>SEO Growth Results</b>
+
+
+![seo_ranking_optimization-min](https://user-images.githubusercontent.com/61537859/111320647-7f465000-8667-11eb-9894-cea0b8f35977.png)
+
+
+
+
+![Seo_growth](https://user-images.githubusercontent.com/61537859/111320651-80777d00-8667-11eb-94c2-2f47ea001e21.png)
+
