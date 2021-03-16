@@ -32,7 +32,8 @@ twitter_username: mariolambe
 
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
