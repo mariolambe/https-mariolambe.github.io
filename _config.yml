@@ -69,7 +69,7 @@ gems:
 google_analytics: UA-62893595-1
 
 header_pages:
-      - about.md
+      - index.md
       - blog.md
       - free-consultation.md
 # Exclude from processing.
