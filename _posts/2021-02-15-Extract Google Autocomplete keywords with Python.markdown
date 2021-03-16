@@ -14,4 +14,6 @@ The python code is ready to be used, you only need to add as many keywords as yo
 
 Example:
 
+{::nomarkdown}
 {% jupyter_notebook "googlesuggest.ipynb" %}
+{:/nomarkdown}
