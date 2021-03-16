@@ -36,6 +36,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-jupyter-notebook
+
 whitelist:
   - jekyll-redirect-from  
 gems:
