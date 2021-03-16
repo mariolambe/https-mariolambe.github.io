@@ -3,6 +3,7 @@
 
 layout: page
 title: About
+permalink: /
 ---
 
 Hi, my name is Mario!
