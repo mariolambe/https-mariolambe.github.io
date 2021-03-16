@@ -14,7 +14,8 @@ The python code is ready to be used, you only need to add as many keywords as yo
 
 Example:
 
-```import requests
+```
+import requests
 import string
 import xml.etree.ElementTree as ET
 
@@ -31,4 +32,5 @@ for x in list_c:
     
     
     for child in tree.iter('suggestion'):
-        print(child.attrib['data'])```
+        print(child.attrib['data'])
+        ```
