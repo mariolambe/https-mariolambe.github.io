@@ -4,7 +4,6 @@ title:  "How to Extract URLs from Sitemaps"
 date:   2021-03-15 16:41:27 +0100
 categories: jekyll update
 ---
-[Last update: 03/2021]
 
 If you are wondering how to extract sitemap URLs really fast you are in the right place!
 
