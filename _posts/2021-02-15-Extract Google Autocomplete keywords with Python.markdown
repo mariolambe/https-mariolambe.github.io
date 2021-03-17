@@ -15,9 +15,10 @@ The python code is ready to be used, you only need to add as many keywords as yo
 Example:
 
 ```
-           #import requests
-           #import string
-           #import xml.etree.ElementTree as ET
+           
+           import requests
+           import string
+           import xml.etree.ElementTree as ET
 
 
            list_a = ["hotel berlin", "hotel new york"]
