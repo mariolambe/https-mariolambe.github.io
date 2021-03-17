@@ -15,22 +15,22 @@ The python code is ready to be used, you only need to add as many keywords as yo
 Example:
 
 ```python
-import requests
-import string
-import xml.etree.ElementTree as ET
+           import requests
+           import string
+           import xml.etree.ElementTree as ET
 
 
-list_a = ["hotel berlin", "hotel new york"]
-list_b = [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "l", "m", "n", "o", "p", "q", "r", "s", "t", "v", "z",
+           list_a = ["hotel berlin", "hotel new york"]
+           list_b = [" ", "a", "b", "c", "d", "e", "f", "g", "h", "i", "l", "m", "n", "o", "p", "q", "r", "s", "t", "v", "z",
            "ü", "ä", "ö", "y", "w", "x"] 
-list_c = [f"{i} {j}" for i in list_a for j in list_b]
+           list_c = [f"{i} {j}" for i in list_a for j in list_b]
                
-for x in list_c:
-    apiurl = "http://suggestqueries.google.com/complete/search?output=toolbar&hl=de&q=" + x
-    r = requests.get(apiurl)
-    tree = ET.fromstring(r.text)
+           for x in list_c:
+              apiurl = "http://suggestqueries.google.com/complete/search?output=toolbar&hl=de&q=" + x
+           r = requests.get(apiurl)
+           tree = ET.fromstring(r.text)
     
     
-    for child in tree.iter('suggestion'):
-        print(child.attrib['data'])
+            for child in tree.iter('suggestion'):
+              print(child.attrib['data'])
         
