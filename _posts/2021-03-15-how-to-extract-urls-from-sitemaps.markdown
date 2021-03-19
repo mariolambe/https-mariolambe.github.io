@@ -21,7 +21,7 @@ There are different options out there and I selected the best 3 methods:
 
 I found a simple sitemap url extractor script that will extract the list of URLs in less than 5 seconds, pretty impressive, isn’t it? Give it a try.
 
-[Here the Google Sheet that act as a sitemap url extractor:](https://docs.google.com/spreadsheets/d/1U549m-mcSHIwebpMzjDr3s5ggO95LAnf7YbccrwUkoE/edit?usp=sharing/copy])
+[Here the Google Sheet that act as a sitemap url extractor:](https://docs.google.com/spreadsheets/d/1U549m-mcSHIwebpMzjDr3s5ggO95LAnf7YbccrwUkoE/copy])
 
 
 1. Make a copy of it
