@@ -13,8 +13,9 @@ There are different options out there and I selected the best 3 methods:
 - Google Sheets
 - Screaming Frog
 - Terminal
-- Let’s jump right into it.
+ 
 
+Let’s jump right into it.
 
 
 **1) Extract URLs From XML Sitemaps Online In Google Sheets**
