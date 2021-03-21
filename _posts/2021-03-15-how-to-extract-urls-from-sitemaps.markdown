@@ -20,7 +20,7 @@ Let’s jump right into it.
 
 **1) Extract URLs From XML Sitemaps Online In Google Sheets**
 
-I found a simple sitemap url extractor script that will extract the list of URLs from the Sitemap in Google Sheets in less than 5 seconds, pretty impressive, isn’t it? Give it a try.
+I found a simple sitemap extractor script that will extract the list of URLs from the Sitemap in Google Sheets in less than 5 seconds, pretty impressive, isn’t it? Give it a try.
 
 [Here the Google Sheet that act as a sitemap url extractor:](https://docs.google.com/spreadsheets/d/1U549m-mcSHIwebpMzjDr3s5ggO95LAnf7YbccrwUkoE/copy)
 
