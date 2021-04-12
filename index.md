@@ -32,3 +32,12 @@ Strong focus on strategies to increase rankings, from technical SEO to link acqu
 If you need SEO support for your company or your online project feel free to reach out to me:
 <b>mariolambertucci@gmail.com</b>
 
+
+Top Resources:
+
+[How to Extract URLs from Webpages](https://www.mariolambertucci.com/seo/2021/04/11/Extract-URLs-from-webpages.html)
+
+[How to Extract URLs from Sitemaps](https://www.mariolambertucci.com/seo/2021/03/15/how-to-extract-urls-from-sitemaps.html)
+
+
+
