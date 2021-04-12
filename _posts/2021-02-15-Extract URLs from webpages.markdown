@@ -63,7 +63,7 @@ This extension allows you to :
 - Custom drag a selectable area on the webpage from which all the links will be extracted
 
 
-**2. Extract URLs from webpages with the terminal:**
+**3. Extract URLs from webpages with the terminal:**
 
 
 That´s what you´ll need to do the magic:
