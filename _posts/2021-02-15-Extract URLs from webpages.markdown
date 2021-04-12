@@ -8,6 +8,14 @@ categories: seo
 
 If you are wondering **how to extract URLs from any webpage**, for free, really fast you are in the right place!
 
+I selected the best 3 methods:
+
+- Browser
+- Addon
+- Terminal
+
+Let’s jump right into it.
+
 **1. Extract URLs from webpages with your browser:**
 
 You will need:
