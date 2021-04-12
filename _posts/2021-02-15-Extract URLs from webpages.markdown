@@ -10,7 +10,7 @@ If you are wondering **how to extract URLs from any webpage**, for free, really 
 
 **1. Extract URLs from webpages with addons:**
 
-I can reccomend a really powerful Chrome addon called [Link Klipper ](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo?hl=en
+I can reccomend a really powerful Chrome addon called [Link Klipper](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo?hl=en)
 
 ![Link-Klipper](https://user-images.githubusercontent.com/61537859/114427036-f9acb600-9bba-11eb-9c39-badb724132b5.jpeg)
 
