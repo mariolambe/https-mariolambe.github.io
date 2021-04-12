@@ -18,6 +18,8 @@ You will need:
 
 
 
+
+
 Navigate to the page from which you’d like to extract links.
 
 Right-click the page and select “Inspect”. 
