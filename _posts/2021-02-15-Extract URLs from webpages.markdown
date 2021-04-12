@@ -6,12 +6,27 @@ categories: seo
 
 ---
 
-If you are wondering **how to extract URLs from any webpage with your MAC**, for free, really fast you are in the right place!
+If you are wondering **how to extract URLs from any webpage**, for free, really fast you are in the right place!
+
+**1. Extract URLs from webpages with addons:**
+
+I can reccomend a really powerful Chrome addon called [Link Klipper ](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo?hl=en
+
+This extension allows you to :
+- Extract all the links on the webpage
+- Store all the extracted links as a CSV file
+- Custom drag a selectable area on the webpage from which all the links will be extracted
+
+
+**2. Extract URLs from webpages with the terminal:**
+
 
 That´s what you´ll need to do the magic:
 
+- MAC
 - termnial
 - wget installed
+
 
 
 
