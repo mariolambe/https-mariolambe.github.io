@@ -2,7 +2,7 @@
 # This file is at `./index.md`
 
 layout: page
-title: SEO Lahr
+title: About
 permalink: /
 ---
 
