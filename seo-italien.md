@@ -8,7 +8,7 @@ permalink: /seo-italien/
 ## Dein SEO Experte für Italien: *Mario Lambertucci*
 
 
-- Name: Mario Lambertucci
+- Name: Mario Lambertucci 🇮🇹
 - Berufung: Senior SEO Manager bei Zalando und Freelancer
 - Expertise: Alles Rund um organische Sichbarkeit in Suchmaschinen für Italien
 
