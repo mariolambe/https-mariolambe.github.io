@@ -27,7 +27,14 @@ Come esperto SEO ti aiuterò a posizionare il tuo sito su Google Germania e su a
 
 Infatti gli utenti tedeschi in Germania effettuano le loro ricerche in tedesco e questo vuol dire che le tue pagine dovranno essere ottimizzate anche per i nostri amici teutonici.
 
+## Ottimizzazione SEO in Germania - Quanto tempo richiede?
+Il mercato tedesco è molto competitivo. Riuscire a posizionarsi per chiavi di ricerca molto poplari richiede una buona conoscenza del pubblico tedesco, ottima conoscenza della lingua tedesca e una conoscenza avanzata dei fattori di ranking che influenzano il posizionamento su google.de
+
+In base alla competitività delle parole chiave del tuo business i tempi possono variare da un minimo di un mese per le chiavi meno popolari fino a 12+ mesi in relazione anche al budget che si vorrà investire per l' ottimizzazione della versione tedesca del proprio sito.
+
+
 ## Risultati SEO
+Ecco alcuni risultati di campagne SEO in Germania lanciate recentemente. Dal grafico si può notare la crescita di click da google.de dopo il lancio delle campagne:
 
 ![seo_ranking_optimization-min](https://user-images.githubusercontent.com/61537859/111320647-7f465000-8667-11eb-9894-cea0b8f35977.png)
 
