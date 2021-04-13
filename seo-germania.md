@@ -9,9 +9,11 @@ permalink: /seo-germania/
 
 ![Lahr:Schwarzwald](https://user-images.githubusercontent.com/61537859/114528692-8736e700-9c49-11eb-8da2-d49c87381b61.jpeg)
 
-- Nome: Mario Lambertucci
-- Occupazione: Senior SEO Manager da 7 anni per il famoso ecommerce di moda Zalando e Freelancer
-- Punti di forza: crescita della visibilità in Germania attraverso l'ottimiazzazione delle parole chiave su Google Germania (google.de)
+Ciao, il mio nome è Mario Lambertucci.
+
+Nato e vissuto in Italia, vivo e lavoro in Germania da quasi 10 anni e ricopro il ruolo di **Senior SEO Manager** per l'ecommerce di moda Zalando. 
+
+Oltre a ciò, aiuto aziende italiane nella crescita della visibilità in Germania attraverso l'ottimiazzazione delle parole chiave su Google Germania (google.de)
 
 ![Mario Lambertucci](https://user-images.githubusercontent.com/61537859/114521549-cf9ed680-9c42-11eb-8dae-356443948158.jpeg)
 
