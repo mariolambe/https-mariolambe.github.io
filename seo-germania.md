@@ -5,7 +5,7 @@ permalink: /seo-germania/
 ---
 
 
-## Il tuo esperto SEO in Germania: *Mario Lambertucci*
+## Il tuo Consulente SEO in Germania: *Mario Lambertucci*
 
 ![Lahr:Schwarzwald](https://user-images.githubusercontent.com/61537859/114528692-8736e700-9c49-11eb-8da2-d49c87381b61.jpeg)
 
