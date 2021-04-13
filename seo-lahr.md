@@ -23,9 +23,9 @@ Ziel ist es, mit bestimmten Schlagwörtern (Keywords), die wichtig und relevant 
 SEO eignet sich daher für Unternehmen aller Branchen, z.B. Zahnärzte, Kindernärzte, Hersteller, Unternehmensberatungen, Händler, Restaurants, Fahrschulen, Agenturen, Rechtsanwälte, Immobilienunternehmen, Autohäuser, und jegliche andere Unternehmen.
 
 ### Jetzt kontakt aufnehmen
-mariolambertucci@gmail.com
+**mariolambertucci@gmail.com**
 
-Bitte teilen Sie mir folgende Informationen mit :
+Bitte teilen Sie mir folgende Informationen mit:
 
 - DEIN NAME
 - DEINE WEBADRESSE
