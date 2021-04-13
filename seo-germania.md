@@ -36,9 +36,9 @@ In base alla competitività delle parole chiave del tuo business i tempi possono
 ## Risultati SEO
 Ecco alcuni risultati di campagne SEO in Germania lanciate recentemente. Dal grafico si può notare la crescita di click da google.de dopo il lancio delle campagne:
 
-![seo_ranking_optimization-min](https://user-images.githubusercontent.com/61537859/111320647-7f465000-8667-11eb-9894-cea0b8f35977.png)
+![SEO Growth 2](https://user-images.githubusercontent.com/61537859/114555750-4c907700-9c68-11eb-8c4a-fac26b929bc5.png)
+![SEO Growth](https://user-images.githubusercontent.com/61537859/114555394-f0c5ee00-9c67-11eb-8484-a3c412a1cca8.png)
 
-![Seo_growth](https://user-images.githubusercontent.com/61537859/111320651-80777d00-8667-11eb-94c2-2f47ea001e21.png)
 
 
 ### Contattami
