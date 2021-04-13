@@ -21,7 +21,7 @@
 title: "Mario Lambertucci"
 email: mariolambertucci@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior SEO Expert. I have 7+ years’ experience in SEO and currently I am <b>Senior SEO Manager</b> at Zalando SE in Germany.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mariolambertucci
