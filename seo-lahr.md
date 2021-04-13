@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SEO 
+title: SEO Lahr
 permalink: /seo-lahr/
 ---
 
