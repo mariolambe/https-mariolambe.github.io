@@ -20,6 +20,13 @@ permalink: /seo-germania/
 Hai un Bed & Breakfast, un Hotel, un ecommerce o qualsiasi altro tipo di business e vorresti promuoverlo in Germania?
 Come esperto SEO ti aiuterò a posizionare il tuo sito su Google Germania e su altri portali tedeschi. Attraverso una prima analisi delle parole chiave del tuo business ti aiuterò nella traduzione e posizionamento delle pagine del tuo sito tra le prime posizioni per il mercato tedesco.
 
+## Risultati SEO
+
+![seo_ranking_optimization-min](https://user-images.githubusercontent.com/61537859/111320647-7f465000-8667-11eb-9894-cea0b8f35977.png)
+
+![Seo_growth](https://user-images.githubusercontent.com/61537859/111320651-80777d00-8667-11eb-94c2-2f47ea001e21.png)
+
+
 ### Contattami
 **mariolambertucci@gmail.com**
 
