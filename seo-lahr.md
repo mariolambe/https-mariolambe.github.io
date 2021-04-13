@@ -24,3 +24,12 @@ SEO eignet sich daher für Unternehmen aller Branchen, z.B. Zahnärzte, Kindern�
 
 ### Jetzt kontakt aufnehmen
 mariolambertucci@gmail.com
+
+Bitte teilen Sie mir folgende Informationen mit :
+
+- DEIN NAME
+- DEINE WEBADRESSE
+- WIE KANN ICH DIR HELFEN?
+- DEIN MONATLICHES BUDGET
+- WANN SOLL DEIN PROJEKT STARTEN?
+- ZUSÄTZLICHE INFORMATIONEN
