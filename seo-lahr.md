@@ -5,7 +5,7 @@ permalink: /seo-lahr/
 ---
 
 
-## Dein SEO in Lahr *Mario Lambertucci*
+## Dein SEO in Lahr: *Mario Lambertucci*
 
 - Name: Mario Lambertucci
 - Berufung: Senior SEO Manager bei Zalando und Freelancer
