@@ -43,6 +43,9 @@ twitter_username: mariolambe
     # keybase: jekyll
 
 
+sass:
+  style: compressed
+
 # Build settings
 theme: minima
 plugins:
