@@ -21,3 +21,6 @@ Ziel ist es, mit bestimmten Schlagwörtern (Keywords), die wichtig und relevant 
 ## Für welche Unternehmen ist SEO geeignet?
 
 SEO eignet sich daher für Unternehmen aller Branchen, z.B. Zahnärzte, Kindernärzte, Hersteller, Unternehmensberatungen, Händler, Restaurants, Fahrschulen, Agenturen, Rechtsanwälte, Immobilienunternehmen, Autohäuser, und jegliche andere Unternehmen.
+
+### Jetzt kontakt aufnehmen
+mariolambertucci@gmail.com
