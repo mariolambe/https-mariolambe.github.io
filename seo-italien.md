@@ -25,6 +25,15 @@ Ziel ist es, mit bestimmten Schlagwörtern (Keywords), die wichtig und relevant 
 
 SEO eignet sich daher **für Unternehmen aller Branchen**, z.B. Hersteller, Unternehmensberatungen, Händler, Agenturen,  Immobilienunternehmen, B&B, Hotels und jegliche andere Unternehmen.
 
+
+## SEO-Wachstum Beispiele
+
+![seo_ranking_optimization-min](https://user-images.githubusercontent.com/61537859/111320647-7f465000-8667-11eb-9894-cea0b8f35977.png)
+
+![Seo_growth](https://user-images.githubusercontent.com/61537859/111320651-80777d00-8667-11eb-94c2-2f47ea001e21.png)
+
+
+
 ### Jetzt kontakt aufnehmen
 **mariolambertucci@gmail.com**
 
