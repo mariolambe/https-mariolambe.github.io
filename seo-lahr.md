@@ -15,12 +15,12 @@ permalink: /seo-lahr/
 
 ## Suchmaschinenoptimierung in Lahr - Was bedeudet das?
 Als SEO Experte betreue ich Sie in Lahr und ganz Deutschland individuell zu den Themen um Ihre Markenbekanntheit zu steigern und um mehr Besucher zu erreichen.
-Ziel ist es, mit bestimmten Schlagwörtern (Keywords), die wichtig und relevant für den Websitebetreiber sind (z.bsp. "Barbershop Lahr", "Kinderschuhe Lahr", "Zahnarzt Lahr"), auf der ersten Seite der Google Suchergebnisse zu erscheinen.
+Ziel ist es, mit bestimmten Schlagwörtern (Keywords), die wichtig und relevant für den Websitebetreiber sind (z.bsp. "Barbershop Lahr", "Kinderschuhe Lahr", "Zahnarzt Lahr"), **auf der ersten Seite der Google Suchergebnisse zu erscheinen**.
 
 
 ## Für welche Unternehmen ist SEO geeignet?
 
-SEO eignet sich daher für Unternehmen aller Branchen, z.B. Zahnärzte, Kindernärzte, Hersteller, Unternehmensberatungen, Händler, Restaurants, Fahrschulen, Agenturen, Rechtsanwälte, Immobilienunternehmen, Autohäuser, und jegliche andere Unternehmen.
+SEO eignet sich daher **für Unternehmen aller Branchen**, z.B. Zahnärzte, Kindernärzte, Hersteller, Unternehmensberatungen, Händler, Restaurants, Fahrschulen, Agenturen, Rechtsanwälte, Immobilienunternehmen, Autohäuser, und jegliche andere Unternehmen.
 
 ### Jetzt kontakt aufnehmen
 **mariolambertucci@gmail.com**
