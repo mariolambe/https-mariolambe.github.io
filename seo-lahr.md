@@ -12,4 +12,8 @@ permalink: /seo-lahr/
 - Expertise: Alles Rund um organische Sichbarkeit in Suchmaschinen
 
 ## Suchmaschinenoptimierung in Lahr - Was bedeudet das?
-Als SEO Experte betreue ich Sie in Lahr und ganz Deutschland individuell zu den Themen Suchmaschinenoptimierung (Search Engine Optimization: SEO), Web-Analyse, SEO International um Ihre Markenbekanntheit zu steigern und um mehr Besucher zu erreichen. 
+Als SEO Experte betreue ich Sie in Lahr und ganz Deutschland individuell zu den Themen um Ihre Markenbekanntheit zu steigern und um mehr Besucher zu erreichen:
+
+- Suchmaschinenoptimierung (Search Engine Optimization: SEO)
+- Web-Analyse
+- SEO International 
