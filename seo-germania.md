@@ -28,9 +28,25 @@ Come esperto SEO ti aiuterò a posizionare il tuo sito su Google Germania e su a
 Infatti gli utenti tedeschi in Germania effettuano le loro ricerche in tedesco e questo vuol dire che le tue pagine dovranno essere ottimizzate anche per i nostri amici teutonici.
 
 ## Posizionamento SEO in Germania - Quanto tempo richiede?
-Il mercato tedesco è molto competitivo. Riuscire a posizionarsi per chiavi di ricerca molto poplari richiede una buona conoscenza del pubblico tedesco, ottima conoscenza della lingua tedesca e una conoscenza avanzata dei fattori di ranking che influenzano il posizionamento su google.de
+Il mercato tedesco è **molto competitivo**. Riuscire a posizionarsi per chiavi di ricerca molto poplari richiede una buona conoscenza del pubblico tedesco, ottima conoscenza della lingua tedesca e una conoscenza avanzata dei fattori di ranking che influenzano il posizionamento su google.de
 
-In base alla competitività delle parole chiave del tuo business i tempi possono variare da un minimo di un mese per le chiavi meno popolari fino a 12+ mesi in relazione anche al budget che si vorrà investire per l' ottimizzazione della versione tedesca del proprio sito.
+In base alla competitività delle parole chiave del tuo business i tempi possono variare da un **minimo di un mese per le chiavi meno popolari fino a 12+ mesi** in relazione anche al budget che si vorrà investire per l' ottimizzazione della versione tedesca del proprio sito.
+
+In termini di **volumi di ricerca mensili** (quante volte una determinata parola chiave è stata cercata su Google), anche qui i valori sono differenti per diverse ragioni: magari un brand è più famoso in Germania rispetto che in Italia ad esempio, o più semplicemente perchè in Germania ci sono più abitanti e quindi potenziali visitatori del vostro sito.
+
+Esempio:
+
+<div class="datatable-begin"></div>
+
+Keyword    | Nazione                           | Volume di ricerca mensili (popolarità della parola chiave)
+------- | ------------------------------------- | -------- 
+Scarpe Geox  | Italia  (google.it)         | 14.800    |
+Schuhe Geox | Germania (google.de)  | 18.100    | 
+Scarpe Geox Bambini | Italia  (google.it)         | 1.900    |
+Kinderschuhe Geox | Germania (google.de)  | 6.600   | 
+
+<div class="datatable-end"></div>
+
 
 
 ## Risultati SEO in Germania
