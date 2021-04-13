@@ -74,8 +74,9 @@ google_analytics: UA-62893595-1
 header_pages:
       - index.md
       - blog.md
-      - free-consultation.md
       - seo-lahr.md
+      - free-consultation.md
+      
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
