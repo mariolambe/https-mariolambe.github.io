@@ -16,7 +16,7 @@ I selected the best 3 methods:
 
 Let’s jump right into it.
 
-**1. Extract URLs from webpages with your browser:**
+## **1. Extract URLs from webpages with your browser:**
 
 You will need:
 - a browser
@@ -58,7 +58,7 @@ make_table()
 
 
 
-**2. Extract URLs from webpages with addons:**
+## **2. Extract URLs from webpages with addons:**
 
 I can reccomend a really powerful Chrome addon called [Link Klipper](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo?hl=en)
 
@@ -71,7 +71,7 @@ This extension allows you to :
 - Custom drag a selectable area on the webpage from which all the links will be extracted
 
 
-**3. Extract URLs from webpages with the terminal:**
+## **3. Extract URLs from webpages with the terminal:**
 
 
 That´s what you´ll need to do the magic:
