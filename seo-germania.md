@@ -22,7 +22,9 @@ Ottimizzare il tuo sito per il mercato italiano non è sufficiente se si vuole a
 Infatti **google.it** mostra risultati diversi dal motore di ricerca usato dai tedeschi in Germania, ovvero **google.de**
 
 Hai un Bed & Breakfast, un Hotel, un ecommerce o qualsiasi altro tipo di business e vorresti promuoverlo in Germania?
+
 Come esperto SEO ti aiuterò a posizionare il tuo sito su Google Germania e su altri portali tedeschi. Attraverso una prima analisi delle parole chiave del tuo business ti aiuterò nella traduzione e posizionamento delle pagine del tuo sito tra le prime posizioni per il mercato tedesco.
+
 Infatti gli utenti tedeschi in Germania effettuano le loro ricerche in tedesco e questo vuol dire che le tue pagine dovranno essere ottimizzate anche per i nostri amici teutonici.
 
 ## Risultati SEO
