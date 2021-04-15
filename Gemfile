@@ -33,3 +33,4 @@ gem 'jekyll-redirect-from'
 #embedd jupyter notebook
 gem "jekyll-jupyter-notebook"
 #gem "minimal-mistakes-jekyll"
+gem 'jekyll-sitemap'
