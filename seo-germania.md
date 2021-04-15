@@ -13,7 +13,7 @@ Ciao, il mio nome è Mario Lambertucci.
 
 Nato e vissuto in Italia, vivo e lavoro in Germania da quasi 10 anni e ricopro il ruolo di **Senior SEO Manager** per l'ecommerce di moda Zalando. 
 
-Oltre a ciò, aiuto aziende italiane nella crescita della visibilità in Germania attraverso l'ottimizzazione delle parole chiave su Google Germania (google.de)
+Oltre a ciò, aiuto aziende italiane nella crescita della visibilità in Germania attraverso una consulenza SEO ad hoc mirata all'ottimizzazione delle parole chiave su Google Germania (google.de)
 
 ![Mario Lambertucci](https://user-images.githubusercontent.com/61537859/114521549-cf9ed680-9c42-11eb-8dae-356443948158.jpeg)
 
@@ -23,7 +23,7 @@ Ottimizzare il tuo sito per il mercato italiano non è sufficiente se si vuole a
 
 Infatti **google.it** mostra risultati diversi dal motore di ricerca usato dai tedeschi in Germania, ovvero **google.de**
 
-Hai un Bed & Breakfast, un Hotel, un ecommerce o qualsiasi altro tipo di business e vorresti promuoverlo in Germania?
+Hai un Bed & Breakfast, un Hotel, un ecommerce o qualsiasi altro tipo di business e vorresti promuoverlo in Germania? 
 
 Come esperto SEO ti aiuterò a posizionare il tuo sito su Google Germania e su altri portali tedeschi. Attraverso una prima analisi delle parole chiave del tuo business ti aiuterò nella traduzione e posizionamento delle pagine del tuo sito tra le prime posizioni per il mercato tedesco.
 
@@ -61,7 +61,7 @@ Ecco alcuni risultati di campagne SEO in Germania lanciate recentemente. Dal gra
 
 
 
-### Contattami
+### Contattami per una consulenza SEO
 **mariolambertucci@gmail.com**
 
 Condividi con me le seguenti informazioni:
