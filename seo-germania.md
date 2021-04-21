@@ -51,7 +51,7 @@ Kinderschuhe Geox | Germania (google.de)  | 6.600   |
 
 
 
-## Risultati SEO in Germania
+## Risultati consulenza SEO in Germania
 Ecco alcuni risultati di campagne SEO in Germania lanciate recentemente. Dal grafico si può notare la crescita di click da google.de dopo il lancio delle campagne:
 
 ![SEO Growth 2](https://user-images.githubusercontent.com/61537859/114555750-4c907700-9c68-11eb-8c4a-fac26b929bc5.png)
