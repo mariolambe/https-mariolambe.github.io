@@ -60,7 +60,6 @@ plugins:
   - jekyll-jupyter-notebook
 whitelist:
   - jekyll-redirect-from
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
