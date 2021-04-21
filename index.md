@@ -1,7 +1,7 @@
 ---
 # This file is at `./index.md`
 
-layout: home
+layout: page
 title: About
 permalink: /
 ---
