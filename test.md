@@ -1,1 +1,1 @@
-![Einhorn mit Fluegeln](https://user-images.githubusercontent.com/61537859/135827451-a40d0ccb-9402-416f-9b09-f6405fd9d504.jpeg)
+![Einhorn mit Fluegeln](https://user-images.githubusercontent.com/61537859/135831867-f3f15658-290a-44e6-936a-b5f66a1a7797.jpeg)
